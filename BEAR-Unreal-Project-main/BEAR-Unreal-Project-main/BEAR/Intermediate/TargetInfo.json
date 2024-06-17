@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BEAR",
+			"Path": "C:\\Digipen\\GAM300\\BEAR\\Source\\BEAR.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BEAREditor",
+			"Path": "C:\\Digipen\\GAM300\\BEAR\\Source\\BEAREditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

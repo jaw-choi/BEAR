@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\digipen\\gam300\\bear\\intermediate\\build\\win64\\unrealeditor\\inc\\bear\\checkpoint.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\digipen\\gam300\\bear\\intermediate\\build\\win64\\beareditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\digipen\\gam300\\bear\\intermediate\\build\\win64\\unrealeditor\\development\\bear\\definitions.bear.h",
+            "c:\\digipen\\gam300\\bear\\source\\bear\\checkpoint.h",
+            "c:\\digipen\\gam300\\bear\\intermediate\\build\\win64\\unrealeditor\\inc\\bear\\checkpoint.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
